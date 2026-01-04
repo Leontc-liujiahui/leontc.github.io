@@ -31,6 +31,9 @@ Previously, under the guidance of [Yishuo Cai](https://walkeralan123.github.io/)
 
 
 <!-- # 🖨️ Preprints & In Submission  -->
+Nearest Is Not Dearest: Towards Practical Defense against Quantization-conditioned Backdoor Attacks
+Boheng Li, Yishuo Cai, Haowei Li, Feng Xue, Zhifeng Li, Yiming Li
+The IEEE / CVF Computer Vision and Pattern Recognition Conference (CVPR), 2024
   
 # 📖 Educations
 - *2023.09 - Present*, Undergraduate, School of Computer Science and Engineering, Central South University, Changsha, China. Majoring in Data Science and Big Data Technology.
